@@ -3,6 +3,7 @@
 用Dear ImGui和OpenGL编写的渲染器
 
 ## 目录结构
+```
 libGLGUI
 |---README.md
 |---CMakeLists.txt
@@ -26,6 +27,7 @@ libGLGUI
     |---test // 用于测试libGUI
         |---test.cpp
         |---CMakeLists.txt
+```
     
 ## Build
 ```
