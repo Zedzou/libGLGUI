@@ -30,6 +30,7 @@ libGLGUI
 ```
     
 ## Build
+注意cmake文件夹中扩展库 UseImGUI.cmake 和 Findgl3w.cmake，文件中git clone的url用SSH.
 ```
-mkdir build && cd build && cmake .. && make // 注意cmake文件夹中扩展库 UseImGUI.cmake 和 Findgl3w.cmake，文件中git clone的url用SSH.
+mkdir build && cd build && cmake .. && make 
 ```
